@@ -35,6 +35,16 @@ a {
     text-align: right;
 }
 
+.cart ul {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.cart ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .container {
     max-width: 1300px;
     margin: auto;
